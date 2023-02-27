@@ -1,0 +1,62 @@
+<resources>
+    <string name="app_name">Android Fare Meter</string>
+    <string name="app_name1">Android</string>
+    <string name="app_name2">Fare Meter</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Fare Meter</string>
+    <string name="nav_header_subtitle">A. F. M</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">❤</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_vehicleNum">Vehicle Number</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_details">User Details</string>
+    <string name="menu_trip">Trip Details</string>
+    <string name="menu_about">About Us</string>
+    <string name="menu_estfair">Estimate Fare</string>
+    <string name="afm_logo">AFM Logo</string>
+    <string name="vehiclepage">Vehicle_Page</string>
+
+    <string name="num1">+91 9766267686</string>
+    <string name="num2" translatable="false">+91 7028662215</string>
+    <string name="mail1">vickypatilak47@gmail.com</string>
+    <string name="mail2">mihirpatil2157@gmail.com</string>
+    <string name="contact">contact</string>
+
+    <string name="Text1">The application is purely built on Android Studio   which is the official Integrated Development   Environment (IDE) for Google\'s Android OS , built   on JetBrains\' IntelliJ IDEA software and designed specifically for Android development.</string>
+    <string name="Text2">The application can be downloaded on mobiles   based on Android and Java.</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="communicate">Communicate</string>
+    <string name="Creators"><![CDATA[Created With ❤ By Vicky & Mihir]]></string>
+    <string name="enter_vehicle_number">Enter Vehicle Number</string>
+    <string name="enter_sd">Check For Fare</string>
+    <string name="ka_05_af_8484">KA-05-AF-8484</string>
+    <string name="enter_destination">Enter Destination</string>
+    <string name="enter_source">Enter Source</string>
+    <string name="Fare">Fare</string>
+    <string name="button">Go!</string>
+    <string name="ok">Ok!</string>
+    <string name="user_details">User Details</string>
+    <string name="trip_details">Trip Details</string>
+    <string name="female">Female</string>
+    <string name="male">Male</string>
+    <string name="phone">Phone</string>
+    <string name="date_of_birth">24/12/2002</string>
+    <string name="username">Username</string>
+    <string name="e_mail_address">E-mail Address</string>
+    <string name="sex">Sex :</string>
+    <string name="dtsex">Sex</string>
+    <string name="name">Name :</string>
+    <string name="e_mail">E-mail :</string>
+    <string name="phonenum">Phone :</string>
+    <string name="dob">DOB :</string>
+    <string name="submit">Submit!</string>
+    <string name="our_focus_remains_intact_in_making_users_aware_about_the_meter_tweeks">Our focus remains intact in making users aware about the meter tweeks.</string>
+    <string name="the_easy_navigation_offered_in_the_app_makes_the_usability_simple">The easy navigation offered in the app makes the usability simple.</string>
+    <string name="the_integration_of_google_maps_makes_it_even_more_enhancing_and_user_friendly">The integration of Google maps makes it even more enhancing and user-friendly.</string>
+    <string name="the_user_details_entered_will_be_stored_safe_and_secure_making_privacy_essential">The user details entered will be stored safe and secure making privacy essential.</string>
+</resources>
